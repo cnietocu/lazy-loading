@@ -15,8 +15,8 @@ Lazy loading project 🦊
     En caso que no lo hayas hecho ya: 
 
     ```sh
-    git clone git@github.com:jonalvarezz/platzi-dom.git
-    cd platzi-dom
+    git clone git@github.com:cnietocu/lazy-loading.git
+    cd lazy-loading
     ```
 
     
@@ -25,22 +25,16 @@ Lazy loading project 🦊
     Desde la raiz del repositorio:
 
     ```sh
-    yarn
+    npm install
     ```
 
 
-1.  **Corre este Workshop.**
+1.  **Inicia el proyecto**
     
-    Accede a la carpeta del worshop
-
-    ```sh
-    cd workshop-lazy-loading
-    ```
-
     Inicia el proyecto
 
     ```sh
-    yarn start
+    npm start
     ```
 
     El sitio estará disponible en http://localhost:8080.

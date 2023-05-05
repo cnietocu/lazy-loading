@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-Workshop 2: Lazy loading
+Lazy loading proyect
 </h1>
 
 

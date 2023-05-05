@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-Lazy loading proyect
+Lazy loading project 🦊
 </h1>
 
 
